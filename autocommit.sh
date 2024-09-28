@@ -92,5 +92,6 @@ push_config(){
 
 }
 
+m0="$*"
 grab_version
 push_config
